@@ -9,6 +9,7 @@ using System;
 using System.Security.Principal;
 using System.Web;
 using Microsoft.Practices.Unity;
+using NakedObjects;
 using NakedObjects.Architecture.Component;
 using NakedObjects.Architecture.Configuration;
 using NakedObjects.Meta.Audit;
